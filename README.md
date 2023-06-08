@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelluhulima
 - 👀 I’m interested in Machine Learning & Embedded Software development
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Flutter!
 - 📫 How to reach me 
 -       E-mail:miguelluhu5@gmail.com
 -       LinkedIn: @miguelluhulima
